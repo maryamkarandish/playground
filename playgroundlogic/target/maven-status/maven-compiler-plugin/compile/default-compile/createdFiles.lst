@@ -1,0 +1,15 @@
+com\swedbank\game\components\EquipmentLogManager.class
+com\swedbank\game\beans\PercentageOfUsageReport.class
+com\swedbank\game\components\PlayGroundSite.class
+com\swedbank\game\domain\Kid.class
+com\swedbank\game\components\equipment\Equipment.class
+com\swedbank\game\beans\EquipmentUtilizingReport.class
+com\swedbank\game\beans\LogReport.class
+com\swedbank\game\components\equipment\Slide.class
+com\swedbank\game\report\ReportEngine.class
+com\swedbank\game\Application.class
+com\swedbank\game\components\Factory.class
+com\swedbank\game\domain\Log.class
+com\swedbank\game\components\equipment\BallPitPlay.class
+com\swedbank\game\components\equipment\Swing.class
+com\swedbank\game\components\equipment\Carousel.class

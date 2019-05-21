@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="playground-webapp:war">
+    <output-path>$PROJECT_DIR$/playgroundwebapp/target</output-path>
+    <root id="archive" name="playground-webapp.war">
+      <element id="artifact" artifact-name="playground-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

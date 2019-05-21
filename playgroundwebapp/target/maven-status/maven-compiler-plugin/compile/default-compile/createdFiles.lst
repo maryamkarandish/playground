@@ -1,0 +1,11 @@
+com\swedbank\game\Application.class
+com\swedbank\game\model\EquipmentTypeRequest.class
+com\swedbank\game\controllers\PlaygroundRestController.class
+com\swedbank\game\model\TicketRequest.class
+com\swedbank\game\model\Response.class
+com\swedbank\game\controllers\PlaygroundController.class
+com\swedbank\game\model\KidRequest.class
+com\swedbank\game\model\QueueRequest.class
+com\swedbank\game\model\EquipmentRequest.class
+com\swedbank\game\model\PercentageOfUsageResponse.class
+com\swedbank\game\model\QueueResponse.class
